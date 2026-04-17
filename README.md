@@ -56,12 +56,6 @@ https://jsonplaceholder.typicode.com/posts
 
 ---
 
-## ⚠️ Note
-
-JSONPlaceholder API does not provide pagination, so pagination is simulated in the script.
-
----
-
 ## ✅ Conclusion
 
 This project demonstrates a simple ETL process:
